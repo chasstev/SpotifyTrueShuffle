@@ -1,4 +1,4 @@
-name: website
+name: SpotifyTrueShuffle
 
 # build the documentation whenever there are new commits on main
 on:
@@ -37,7 +37,7 @@ jobs:
   # This is a separate job so that only actions/deploy-pages has the necessary permissions.
   deploy:
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: windows11-latest
     permissions:
       pages: write
       id-token: write
