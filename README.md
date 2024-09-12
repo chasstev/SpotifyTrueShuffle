@@ -30,7 +30,7 @@ python SpotifyTrueShuffle.pyw
 
 ## Additonal Information
 [Info on Spotify Credentials](https://github.com/chasstev/SpotifyTrueShuffle/wiki/How-to-Find-Client-ID-and-Client-Secret) <br/>
-[Documentation](https:chasstev.github.io/SpotifyTrueShuffle)
+[Documentation](https://chasstev.github.io/SpotifyTrueShuffle/)
 
 
 
